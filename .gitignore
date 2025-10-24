@@ -38,6 +38,7 @@ local.properties
 *.jks
 *.env
 *.properties
+!gradle.properties
 
 # OS files
 .DS_Store
